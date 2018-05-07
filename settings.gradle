@@ -1,0 +1,5 @@
+rootProject.name = 'kafka-version-difference'
+include 'kafka-v0.9'
+include 'kafka-v0.8'
+include 'kafka-v0.10'
+

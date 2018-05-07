@@ -1,0 +1,12 @@
+18/05/07 09:39:02 INFO VerifiableProperties: Verifying properties
+18/05/07 09:39:02 INFO VerifiableProperties: Property metadata.broker.list is overridden to demo228.test.com:6667
+18/05/07 09:39:02 INFO VerifiableProperties: Property partitioner.class is overridden to producer.SimplePartitioner
+18/05/07 09:39:02 INFO VerifiableProperties: Property request.required.acks is overridden to 1
+18/05/07 09:39:02 INFO VerifiableProperties: Property serializer.class is overridden to kafka.serializer.StringEncoder
+18/05/07 09:39:03 INFO ClientUtils$: Fetching metadata from broker id:0,host:demo228.test.com,port:6667 with correlation id 0 for 1 topic(s) Set(page_visits)
+18/05/07 09:39:03 INFO SyncProducer: Connected to demo228.test.com:6667 for producing
+18/05/07 09:39:03 INFO SyncProducer: Disconnecting from demo228.test.com:6667
+18/05/07 09:39:04 INFO SyncProducer: Connected to demo228.test.com:6667 for producing
+18/05/07 09:39:05 INFO Producer: Shutting down producer
+18/05/07 09:39:05 INFO ProducerPool: Closing all sync producers
+18/05/07 09:39:05 INFO SyncProducer: Disconnecting from demo228.test.com:6667
